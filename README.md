@@ -45,20 +45,13 @@
 
 <br/>
  
-<a href="https://github.com/Amila-Pathirana">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Amila-Pathirana&theme=buefy&show_icons=true" />
-<!--   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amila-Pathirana&theme=buefy&layout=compact" /> -->
-</a> 
+<br/>
  
-  
-<p align="center" style='margin: 8px 4px;'>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amila-pathirana&show_icons=true&locale=en&layout=compact" alt="amila-pathirana" /></p>
 
- [![GitHub Streak](https://streak-stats.demolab.com?user=amila-pathirana&theme=radical)](https://git.io/streak-stats)
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amila-pathirana&show_icons=true&locale=en" alt="amila-pathirana" /></p>
 
- </p>
-
-
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amila-pathirana&" alt="amila-pathirana" /></p>
 
 
 <br/>
